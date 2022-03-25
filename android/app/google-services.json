@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1055232531751",
+    "project_id": "traffix-19d8b",
+    "storage_bucket": "traffix-19d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055232531751:android:231467e7b4c6bcd5325d02",
+        "android_client_info": {
+          "package_name": "com.ttrafix.ubaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055232531751-3lerooubifheglp85ntls346hqso9rmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ttrafix.ubaid",
+            "certificate_hash": "b4bc938001d1fd5a74490d0632df2c9a19e6d472"
+          }
+        },
+        {
+          "client_id": "1055232531751-nsk1c7ttftbgurp37fcorhnol2krrtme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ttrafix.ubaid",
+            "certificate_hash": "58dac9e0883f7b2e3917e7c34029513fbda7803a"
+          }
+        },
+        {
+          "client_id": "1055232531751-aenl33ibm7e2spib8s9hgiv9qt5ni9u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA63VHXmW_lxyVNwnisKvukrB3x5iNAwg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055232531751-aenl33ibm7e2spib8s9hgiv9qt5ni9u7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055232531751-st5brcuteiie24q7lq6dmpqpaq1cgvf4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ttrafix.ubaid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

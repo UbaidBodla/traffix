@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">trafix</string>
+    <string name="facebook_app_id">931989024156265</string>
+    <string name="fb_login_protocol_scheme">fb931989024156265</string>
+</resources>
